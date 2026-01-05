@@ -26,7 +26,7 @@ def main():
     print("Setup completed successfully")
     
 def create_directories():
-    folders = ["notebooks", "scripts", "data"]
+    folders = ["notebooks", "scripts", "notebooks/data"]
     for folder in folders:
         os.makedirs(folder, exist_ok=True)
         print(f"Ensured directory exists: {folder}")

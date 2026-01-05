@@ -9,4 +9,4 @@ jupyterlab
 notebook
 
 # ------ Version Control Tools ------
-nbstripout==0.3.10
+nbstripout
