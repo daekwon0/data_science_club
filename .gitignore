@@ -25,5 +25,4 @@ env/
 !requirements.txt
 
 # ---- Hide Specific Files --------
-setup
 setup.py
