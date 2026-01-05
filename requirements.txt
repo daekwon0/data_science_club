@@ -1,1 +1,12 @@
-pandas==2.2.3
+# ------ DS Dependencies ------
+pandas
+numpy
+matplotlib
+# etc
+
+# ------ Jupyter Tools ------
+jupyterlab
+notebook
+
+# ------ Version Control Tools ------
+nbstripout
