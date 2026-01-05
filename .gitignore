@@ -1,0 +1,24 @@
+# ------- Jupyter and Python -------
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.DS_Store
+
+
+# ------- Environments -------
+.env
+venv/
+env/
+
+# ------- Data Safety -------
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.pkl
+*.json
+*.zip
+
+# ------- Allow Documentation Files -------
+!README.md
+!requirements.txt
