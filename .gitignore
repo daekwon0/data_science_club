@@ -23,3 +23,7 @@ env/
 !README.md
 !Data
 !requirements.txt
+
+# ---- Hide Specific Files --------
+setup
+setup.py
