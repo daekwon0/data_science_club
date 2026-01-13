@@ -2,6 +2,10 @@
 pandas
 numpy
 matplotlib
+matplotlib.pyplot
+seaborn
+sklearn
+tensorflow_decision_forests
 # etc
 
 # ------ Jupyter Tools ------
